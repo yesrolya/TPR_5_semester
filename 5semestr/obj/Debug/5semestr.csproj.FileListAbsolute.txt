@@ -1,0 +1,13 @@
+D:\CSharp\5semestr\5semestr\bin\Debug\5semestr.exe.config
+D:\CSharp\5semestr\5semestr\bin\Debug\5semestr.exe
+D:\CSharp\5semestr\5semestr\bin\Debug\5semestr.pdb
+D:\CSharp\5semestr\5semestr\obj\Debug\5semestr.csprojResolveAssemblyReference.cache
+D:\CSharp\5semestr\5semestr\obj\Debug\_5semestr.Properties.Resources.resources
+D:\CSharp\5semestr\5semestr\obj\Debug\5semestr.csproj.GenerateResource.Cache
+D:\CSharp\5semestr\5semestr\obj\Debug\5semestr.csproj.CoreCompileInputs.cache
+D:\CSharp\5semestr\5semestr\obj\Debug\5semestr.exe
+D:\CSharp\5semestr\5semestr\obj\Debug\5semestr.pdb
+D:\CSharp\5semestr\5semestr\obj\Debug\_5semestr.formTheory.resources
+D:\CSharp\5semestr\5semestr\obj\Debug\_5semestr.formMenu.resources
+D:\CSharp\5semestr\5semestr\obj\Debug\_5semestr.formTest.resources
+D:\CSharp\5semestr\5semestr\obj\Debug\_5semestr.formExample.resources
